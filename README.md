@@ -19,7 +19,7 @@ Os dados analisamos podem servir como base para estudos de:
 - Segurança dos Trabalhadores: Essa análise pode influenciar as políticas de segurança no trabalho, garantindo que os funcionários não estejam expostos a áreas de alta criminalidade durante suas atividades.
 - Planejamento de Eventos e Atividades Públicas: As cidades, principalmente as maiores, possuem eventos culturais anuais e estudos de dados podem ser valiosos na hora do planejamento para encontrar os melhores locais.
 
-## 📊DataViz
+## 📊 DataViz
 ![image](https://github.com/didellygamb/attribute_engineering/assets/109447846/55f52a6b-1ab4-455b-966e-7caa593856c8)
 
 
