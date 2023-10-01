@@ -1,5 +1,5 @@
 # Aplicando a Engenharia de Atributos em Dados Criminais
-A criação de uma nova variável a partir dos dados originais é o que fazemos na engenharia de atributos/ recursos. 
+A criação de uma nova variável a partir dos dados originais é o que fazemos na engenharia de atributos/ recursos.
 
 A engenharia de atributos é uma técnica de análise de dados que aproveita os dados para criar novas variáveis que não estão no conjunto de dados original. 
 Permite produzir novos recursos para a análise de dados, com o objetivo de simplificar e acelerar as transformações de dados.  
